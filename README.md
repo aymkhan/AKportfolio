@@ -19,8 +19,16 @@ In Progress 🔧
 
 
 ## Design Mock Up
+### Part 1:
 
-![aymkhan]()
+![img-20181103-wa0007 1](https://user-images.githubusercontent.com/15281281/47961242-5c4e0080-dfc4-11e8-9f7b-0c1e45618b5b.jpg)
+
+### Part 2:
+![img-20181103-wa0005](https://user-images.githubusercontent.com/15281281/47961222-0ed19380-dfc4-11e8-8115-15f2680a36b8.jpg)
+
+
+### Part 3:
+![img-20181103-wa0006](https://user-images.githubusercontent.com/15281281/47961238-48a29a00-dfc4-11e8-937f-900cc203bb63.jpg)
 
 
 ## Acknowledgments
@@ -28,7 +36,7 @@ In Progress 🔧
 * I would personally like to thank Madona Syombua, who is a dear friend of mine, for taking part in this project and using her talent and expertise in making this project a success.
 
 
-
+## More to come...
 
 
 
